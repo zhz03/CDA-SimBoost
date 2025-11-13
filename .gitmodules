@@ -1,0 +1,3 @@
+[submodule "OpenCDA-InfraX"]
+	path = OpenCDA-InfraX
+	url = https://github.com/ucla-mobility/OpenCDA-InfraX
